@@ -3,6 +3,11 @@
 This is a simple web-based light bulb project using - HTML,- CSS, and - JavaScript*. It demonstrates how to turn a light bulb image on and off using buttons and basic DOM manipulation.
 
 ---
+light-bulb/
+│
+├── index.html     # Main HTML file
+├── style.css      # Styling for the project
+└── script.js      # JavaScript to toggle bulb
 
 ## 🔧 Features
 
@@ -25,3 +30,11 @@ This is a simple web-based light bulb project using - HTML,- CSS, and - JavaScri
 1. Clone the repository:
    ```bash
    git clone https://github.com/kusum2911/light-bulb.git
+   
+## 📜 License
+
+This project is open-source and free to use.
+
+---
+
+Made with ❤ by [Kusum Kumari](https://github.com/kusum2911)
